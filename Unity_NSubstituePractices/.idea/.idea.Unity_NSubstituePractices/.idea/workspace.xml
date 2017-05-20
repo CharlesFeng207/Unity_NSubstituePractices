@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="761aabaa-4361-422e-892d-e679eacd9396" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NSubstituePractices.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Editor/NSubstituePractices.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="213" column="23" lean-forward="true" selection-start-line="213" selection-start-column="23" selection-end-line="213" selection-end-column="23" />
+              <folding>
+                <marker date="1495115121432" expanded="false" signature="6:89" ph="..." />
+                <marker date="1495115121432" expanded="true" signature="137:9917" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="145:782" ph="Data &amp; Setup" />
+                <marker date="1495115121432" expanded="true" signature="202:407" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="441:489" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="579:766" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="594:706" ph="/* Raise event only works for interface、abstract class ... */" />
+                <marker date="1495115121432" expanded="true" signature="789:2602" ph="Setting Return Value" />
+                <marker date="1495115121432" expanded="true" signature="884:1256" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="1318:1627" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="1684:2074" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="1699:1834" ph="/* Returns() can be used to get callbacks for members that return a value ... */" />
+                <marker date="1495115121432" expanded="true" signature="2131:2586" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="2146:2210" ph="/* For non-voids: ... */" />
+                <marker date="1495115121432" expanded="true" signature="2609:5103" ph="Match Received" />
+                <marker date="1495115121432" expanded="true" signature="2697:3216" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="2712:2828" ph="/* if we want to check if _target.OnChanged triggered, ... */" />
+                <marker date="1495115121432" expanded="true" signature="3287:3556" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="3622:3757" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="3814:4158" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="3995:4150" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="4212:5087" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="4227:4415" ph="/* The Callback builder lets us create more complex Do() scenarios. ... */" />
+                <marker date="1495115121432" expanded="true" signature="4903:4950" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5109:8012" ph="Actions with argument matchers" />
+                <marker date="1495115121432" expanded="true" signature="5185:5266" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5296:5355" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5383:5429" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5466:6010" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5619:5723" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5764:6004" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="5870:5979" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="6066:6608" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="6679:6867" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="6944:7996" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="6959:7223" ph="/* Specify a call where the first arg is less than 0, and the second is any int. ... */" />
+                <marker date="1495115121432" expanded="true" signature="7573:7796" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="8018:9915" ph="Others" />
+                <marker date="1495115121432" expanded="true" signature="8102:8815" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="8117:8339" ph="/* Argument matchers should only be used when setting return values or checking received calls. ... */" />
+                <marker date="1495115121432" expanded="true" signature="8507:8636" ph="/* NOT OK: arg matcher used with a real call: ... */" />
+                <marker date="1495115121432" expanded="true" signature="8877:9456" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="8892:9103" ph="/* Once a substitute has been created some properties and methods will automatically return non-null values. ... */" />
+                <marker date="1495115121432" expanded="true" signature="9512:9899" ph="{...}" />
+                <marker date="1495115121432" expanded="true" signature="9628:9893" ph="/* var stream = Substitute.ForPartsOf&lt;StreamReader&gt;(@&quot;C:\Test.text&quot;); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1867" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Unity_NSubstituePractices (2 projects)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1867" height="1096" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Editor/NSubstituePractices.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="213" column="23" lean-forward="true" selection-start-line="213" selection-start-column="23" selection-end-line="213" selection-end-column="23" />
+          <folding>
+            <marker date="1495115121432" expanded="false" signature="6:89" ph="..." />
+            <marker date="1495115121432" expanded="true" signature="137:9917" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="145:782" ph="Data &amp; Setup" />
+            <marker date="1495115121432" expanded="true" signature="202:407" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="441:489" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="579:766" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="594:706" ph="/* Raise event only works for interface、abstract class ... */" />
+            <marker date="1495115121432" expanded="true" signature="789:2602" ph="Setting Return Value" />
+            <marker date="1495115121432" expanded="true" signature="884:1256" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="1318:1627" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="1684:2074" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="1699:1834" ph="/* Returns() can be used to get callbacks for members that return a value ... */" />
+            <marker date="1495115121432" expanded="true" signature="2131:2586" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="2146:2210" ph="/* For non-voids: ... */" />
+            <marker date="1495115121432" expanded="true" signature="2609:5103" ph="Match Received" />
+            <marker date="1495115121432" expanded="true" signature="2697:3216" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="2712:2828" ph="/* if we want to check if _target.OnChanged triggered, ... */" />
+            <marker date="1495115121432" expanded="true" signature="3287:3556" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="3622:3757" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="3814:4158" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="3995:4150" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="4212:5087" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="4227:4415" ph="/* The Callback builder lets us create more complex Do() scenarios. ... */" />
+            <marker date="1495115121432" expanded="true" signature="4903:4950" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5109:8012" ph="Actions with argument matchers" />
+            <marker date="1495115121432" expanded="true" signature="5185:5266" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5296:5355" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5383:5429" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5466:6010" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5619:5723" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5764:6004" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="5870:5979" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="6066:6608" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="6679:6867" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="6944:7996" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="6959:7223" ph="/* Specify a call where the first arg is less than 0, and the second is any int. ... */" />
+            <marker date="1495115121432" expanded="true" signature="7573:7796" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="8018:9915" ph="Others" />
+            <marker date="1495115121432" expanded="true" signature="8102:8815" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="8117:8339" ph="/* Argument matchers should only be used when setting return values or checking received calls. ... */" />
+            <marker date="1495115121432" expanded="true" signature="8507:8636" ph="/* NOT OK: arg matcher used with a real call: ... */" />
+            <marker date="1495115121432" expanded="true" signature="8877:9456" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="8892:9103" ph="/* Once a substitute has been created some properties and methods will automatically return non-null values. ... */" />
+            <marker date="1495115121432" expanded="true" signature="9512:9899" ph="{...}" />
+            <marker date="1495115121432" expanded="true" signature="9628:9893" ph="/* var stream = Substitute.ForPartsOf&lt;StreamReader&gt;(@&quot;C:\Test.text&quot;); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
